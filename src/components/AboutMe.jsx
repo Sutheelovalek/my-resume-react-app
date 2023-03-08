@@ -26,9 +26,9 @@ const About = () => {
         </div>
 
         <div className='flex flex-row relative ml-28'>
-            <img src={BulletLeft} alt="bullet-point-left" className='w-[250px] absolute -right-20 -top-4 z-10' />
-            <img src={ImageProfile} alt="my-profile" className='h-full w-[500px] static z-20 drop-shadow-md hover:drop-shadow-xl rounded-full' />
-            <img src={BulletRight} alt="bullet-point-left" className='w-[250px] absolute -left-2 -bottom-10 z-0' />
+            <img src={BulletLeft} alt="bullet-point-left" className='w-[200px] absolute -right-20 -top-10 z-10' />
+            <img src={ImageProfile} alt="my-profile" className='h-full w-[350px] static z-20 drop-shadow-md hover:drop-shadow-xl rounded-full' />
+            <img src={BulletRight} alt="bullet-point-left" className='w-[200px] absolute -left-16 -bottom-10 z-0' />
         </div>
     </div>
   )
