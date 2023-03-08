@@ -47,7 +47,7 @@ const Experience = () => {
     },
   ]
   return (
-    <div className='flex flex-col px-24 h-[600px] w-full bg-[#E5E5E5]'>
+    <div className='flex flex-col py-20 px-24 h-[600px] w-full bg-[#E5E5E5]'>
         <div className='w-full'>
             <h1 className='text-6xl font-medium border-b-4 p-2 inline'>Experience</h1>
             <h1 className='py-6 text-2xl'>These are the technologies I've worked with</h1>
